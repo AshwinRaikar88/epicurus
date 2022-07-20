@@ -1,5 +1,5 @@
 # Epicurus
-#### Branch: main v1.0.0
+#### Branch: dev v1.0.0
 
 ### Description
 Epicurus is a Deep OCR Engine which can read English characters, words and texts in documents, real world scenes.
