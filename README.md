@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/Epicurus.png" width="500" title="Epicurus OCR Engine" >  
+  <img src="imgs/Epicurus.png" width="300" title="Epicurus OCR Engine"/>  
 </p>
 
 # Epicurus
@@ -17,3 +17,7 @@ East Text detection
 CRNN + CTC
 
 
+
+
+## Authors
+<img src="imgs/ASW_logo .png" width="80" title="ASW"/>
