@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/Epicurus.png" width="500" title="Epicurus OCR Engine" >  
+</p>
+
 # Epicurus
 #### Branch: main v1.0.0
 
@@ -11,3 +15,5 @@ East Text detection
 
 ### Text Recognition Architecture
 CRNN + CTC
+
+
